@@ -1,6 +1,6 @@
 # Image Compression using K-Means Color Quantization
 CSE 4081 – Term Project  
-Group Members: [Names]
+Group Members: Woroma Dimkpa, 
 
 ## Project Overview
 This project implements lossy image compression by reducing the number of unique colors in an image using K-Means clustering.
