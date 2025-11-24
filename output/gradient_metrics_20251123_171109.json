@@ -1,0 +1,41 @@
+{
+  "k_8": {
+    "mse": 66.40885416666667,
+    "psnr": 29.908543739792684,
+    "original_colors": 256,
+    "compressed_colors": 8,
+    "iterations": 28,
+    "original_size": 763,
+    "compressed_size": 813,
+    "compression_ratio": 0.9384993849938499,
+    "compressed_path": "output\\gradient_k8.png",
+    "compare_path": "output\\gradient_compare_k8_20251123_171101.png",
+    "hist_path": "output\\gradient_hist_k8.png"
+  },
+  "k_16": {
+    "mse": 24.466145833333332,
+    "psnr": 34.245148007988966,
+    "original_colors": 256,
+    "compressed_colors": 16,
+    "iterations": 14,
+    "original_size": 763,
+    "compressed_size": 848,
+    "compression_ratio": 0.8997641509433962,
+    "compressed_path": "output\\gradient_k16_1.png",
+    "compare_path": "output\\gradient_compare_k16_20251123_171104.png",
+    "hist_path": "output\\gradient_hist_k16.png"
+  },
+  "k_32": {
+    "mse": 5.649739583333333,
+    "psnr": 40.610519307702106,
+    "original_colors": 256,
+    "compressed_colors": 32,
+    "iterations": 12,
+    "original_size": 763,
+    "compressed_size": 864,
+    "compression_ratio": 0.8831018518518519,
+    "compressed_path": "output\\gradient_k32.png",
+    "compare_path": "output\\gradient_compare_k32_20251123_171108.png",
+    "hist_path": "output\\gradient_hist_k32.png"
+  }
+}
