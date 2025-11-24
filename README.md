@@ -22,7 +22,6 @@ This project implements lossy image compression by reducing the number of unique
 ```
 src/                    → Python source code
   kmeans_compression.py → Main compression script
-  compress.py           → Alternative interface
   utils.py              → Utility functions
 images/                 → Input images for testing
 output/                 → Compressed images and visualizations
